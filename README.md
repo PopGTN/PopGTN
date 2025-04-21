@@ -1,2 +1,11 @@
-# About Me
- Joshua Mckenna, who is he? Well, I am just a random guy who is 22 years old and loves making and creating things from my imagination, starting from the time I was young and building things like a house module out of lego... then switching to Minecraft. Eventually, I got into building and moderating Minecraft servers like Lifeboat Network. I also ran my own Minecraft server called Swiftraid, a faction server with its own custom plugins. In my free time, I also play Call of Duty on PS4 and a lot of other games. I enjoy mountain biking, four-wheeling, snorkeling, and a lot more.
+## 👋 Hi, I’m Joshua McKenna
+
+🎓 Recent grad from Holland College's CIPS-accredited Computer Information Systems program  
+💻 Passionate about full-stack development  
+🧪 Experienced with Angular, ASP.NET Core, Spring Boot, Android Java  
+🧰 Tools I’ve used: NUnit, Playwright, Bootstrap, Sass, Git, Chrome DevTools  
+🧠 Always learning — currently exploring React Native and cloud integrations  
+📁 Check out my projects: Todo App, Soccer Jersey Library, and more  
+🔍 Looking for entry-level software developer roles
+
+Feel free to explore my repos or connect with me on [LinkedIn](https://www.linkedin.com/in/joshua-mckenna-pei/)!
