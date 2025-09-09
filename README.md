@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Joshua McKenna
 
-🎓 Grad from Holland College's CIPS-accredited Computer Information Systems program  
+🎓 2024 Grad from Holland College's CIPS-accredited Computer Information Systems program 
 💻 Passionate about full-stack development  
 🧪 Experienced with Angular, ASP.NET Core, Spring Boot, Android Java  
 🧰 Tools I’ve used: NUnit, Playwright, Bootstrap, Sass, Git, Chrome DevTools  
